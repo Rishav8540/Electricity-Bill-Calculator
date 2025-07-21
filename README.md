@@ -1,3 +1,6 @@
-# Sabji-Mandi Website
+# Sabji-Mandi-Website
 
  This is a “Sabzi Mandi" website through which we will be able to buy vegetables and fruits online. And if we have a vegetable farm, then we can sell our vegetables and fruits by posting their photos and their prices.
+
+We have created a Grocery Store website whose title is “ Sabji Mandi”. On this website, we have created different pages like "Home", "About", “Gallary" and “Order". On the "Home" page we have placed a photo in which there are all fruits and vegetables and below it we have written about the fruits and vegetables. I have put a photo of vegetables on the "About" page and write a few lines around it. I have given pictures of different vegetables and fruits on the "Available" page and have written their prices under them. I have written the prices of various vegetables and fruits below them, and the "Add to cart" option has also been placed below them so that the customer can select and buy many vegetables at once. I have posted photos of many vegetables and fruits on the "Gallery" page. And in the "order" page, blank spaces have been given for customer details to place an order.
+<img width="15045" height="88" alt="image" src="https://github.com/user-attachments/assets/d867cd04-b09b-4836-bb30-fa4d440d1cc1" />
